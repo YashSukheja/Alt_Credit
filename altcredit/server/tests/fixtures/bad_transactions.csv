@@ -1,0 +1,10 @@
+transaction_id,user_id,date,amount,category,type,status,applicant_id
+TXN_9001,USR_001,6/30/2023,105,Food,DEBIT,Completed,8a0d6320-e982-445b-afa8-bb9e0054aca9
+TXN_9002,,6/30/2023,200,Food,DEBIT,Completed,
+TXN_9003,USR_001,2/30/2023,300,Food,DEBIT,Completed,
+TXN_9004,USR_001,6/1/2023,-50,Food,DEBIT,Completed,
+TXN_9005,USR_001,6/1/2023,abc,Food,DEBIT,Completed,
+TXN_9006,USR_001,6/1/2023,400,Gambling,DEBIT,Completed,
+TXN_9007,USR_001,6/1/2023,500,Salary,DEBIT,Completed,
+TXN_9008,USR_001,6/1/2023,600,Rent,DEBIT,Pending,
+TXN_9009,BAD_ID,6/1/2023,700,Food,DEBIT,Completed,
