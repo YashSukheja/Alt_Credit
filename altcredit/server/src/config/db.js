@@ -1,6 +1,10 @@
-const { Pool } = require('pg');
+const { Pool, types } = require('pg');
 const { databaseUrl } = require('./env');
 const logger = require('../utils/logger');
+
+// Return DATE columns as plain 'YYYY-MM-DD' strings. By default pg turns them into
+// JS Dates at local midnight, which shifts the day when converted to UTC.
+types.setTypeParser(1082, (value) => value);
 
 const pool = new Pool({
   connectionString: databaseUrl,
