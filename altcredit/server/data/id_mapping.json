@@ -1,0 +1,2502 @@
+[
+  {
+    "user_id": "USR_001",
+    "applicant_id": "8a0d6320-e982-445b-afa8-bb9e0054aca9",
+    "match_cost": 0.5
+  },
+  {
+    "user_id": "USR_002",
+    "applicant_id": "111ff86d-d582-4503-baac-78ebb7932c94",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_003",
+    "applicant_id": "7c627e33-83a1-47ed-9f82-5cc5098adc8b",
+    "match_cost": 0.0351
+  },
+  {
+    "user_id": "USR_004",
+    "applicant_id": "5a62e11b-2852-4cce-a706-45dc8621733c",
+    "match_cost": 0.005
+  },
+  {
+    "user_id": "USR_005",
+    "applicant_id": "89f14918-71e6-43df-985d-06a6a87fde02",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_006",
+    "applicant_id": "33d6b56a-f5ed-4c1d-b44e-51245c8c07a4",
+    "match_cost": 0.2
+  },
+  {
+    "user_id": "USR_007",
+    "applicant_id": "f4bf2d55-a2a2-4722-9ba4-07eb9937e2b0",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_008",
+    "applicant_id": "a2b042c5-1053-45e1-b1c8-7afe904f2d7b",
+    "match_cost": 0.201
+  },
+  {
+    "user_id": "USR_009",
+    "applicant_id": "1aaab24a-21a1-4451-a9a8-a1eef5fa5a66",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_010",
+    "applicant_id": "7c46b087-29af-4065-939d-9847c6bf53ab",
+    "match_cost": 0.201
+  },
+  {
+    "user_id": "USR_011",
+    "applicant_id": "d2fbf766-8ca8-4afb-8697-7d7859c962b1",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_012",
+    "applicant_id": "1618cce9-a224-4823-bcdc-76a3b1895274",
+    "match_cost": 0.004
+  },
+  {
+    "user_id": "USR_013",
+    "applicant_id": "2c0038c9-c845-45b3-9b03-950e024e470d",
+    "match_cost": 0.201
+  },
+  {
+    "user_id": "USR_014",
+    "applicant_id": "498d23af-1d30-49e7-818b-7c68a7565193",
+    "match_cost": 0.002
+  },
+  {
+    "user_id": "USR_015",
+    "applicant_id": "f0bb65ec-a06b-4016-987d-468bd24b862e",
+    "match_cost": 0.5
+  },
+  {
+    "user_id": "USR_016",
+    "applicant_id": "c835987f-0cde-412b-8a3c-45bc46051561",
+    "match_cost": 0.0491
+  },
+  {
+    "user_id": "USR_017",
+    "applicant_id": "a3a71f63-9a86-4813-9dba-5b5ff8bf8a9a",
+    "match_cost": 0.201
+  },
+  {
+    "user_id": "USR_018",
+    "applicant_id": "3812aec0-a831-4a06-88fd-4ec007824ad5",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_019",
+    "applicant_id": "6e93095e-974a-4f69-bbc3-e783a7eaa6bb",
+    "match_cost": 0.013
+  },
+  {
+    "user_id": "USR_020",
+    "applicant_id": "81278bc3-cb3c-40ba-970e-868d399583f2",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_021",
+    "applicant_id": "a19a1af0-d42e-4741-b031-b3e6fabf37f3",
+    "match_cost": 0.003
+  },
+  {
+    "user_id": "USR_022",
+    "applicant_id": "b06353ae-4f95-47d2-bca0-5ebfd2e333c7",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_023",
+    "applicant_id": "ce64cefd-daa0-4733-a8d8-ff03d13e7bd4",
+    "match_cost": 0.003
+  },
+  {
+    "user_id": "USR_024",
+    "applicant_id": "c9d19994-45a9-419c-953d-75543a5b6116",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_025",
+    "applicant_id": "cce1acfb-9917-4b22-bdc9-ed720c263e9d",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_026",
+    "applicant_id": "4cf6804f-8fc8-4edb-82c6-592d6d8899eb",
+    "match_cost": 0.015
+  },
+  {
+    "user_id": "USR_027",
+    "applicant_id": "d302f085-de52-497b-ad4e-3914db11faf1",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_028",
+    "applicant_id": "a52c7ac9-620f-477d-b642-45cb522f7b6a",
+    "match_cost": 0.002
+  },
+  {
+    "user_id": "USR_029",
+    "applicant_id": "6e7df317-67b8-4d47-8144-a2e24bf3bbbf",
+    "match_cost": 0.015
+  },
+  {
+    "user_id": "USR_030",
+    "applicant_id": "efa94892-8f3c-4c84-b4cd-6440446d5e3e",
+    "match_cost": 0.002
+  },
+  {
+    "user_id": "USR_031",
+    "applicant_id": "f43154e5-cd7b-4a6f-b9fd-26bce2512025",
+    "match_cost": 0.003
+  },
+  {
+    "user_id": "USR_032",
+    "applicant_id": "e3d551b9-9e0e-44c8-9529-f9291fe5db62",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_033",
+    "applicant_id": "5080e5c3-fb5e-4acf-a114-b6794815ba2c",
+    "match_cost": 0.5
+  },
+  {
+    "user_id": "USR_034",
+    "applicant_id": "6cf0ff36-af41-4b51-a867-32943ec2c433",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_035",
+    "applicant_id": "a241332a-da69-45d0-b98c-257913f80364",
+    "match_cost": 0.2
+  },
+  {
+    "user_id": "USR_036",
+    "applicant_id": "490b769b-2030-431d-9b81-8d21e84463c2",
+    "match_cost": 0.301
+  },
+  {
+    "user_id": "USR_037",
+    "applicant_id": "bcc2434d-8665-4ffe-94c1-6f54e21ab285",
+    "match_cost": 0.0361
+  },
+  {
+    "user_id": "USR_038",
+    "applicant_id": "798e357c-72cb-4f4d-bf81-dc218614e548",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_039",
+    "applicant_id": "9ab33488-43aa-41f5-857c-ad48a68ff674",
+    "match_cost": 0.2
+  },
+  {
+    "user_id": "USR_040",
+    "applicant_id": "4e611a03-f83f-43df-9137-83ddae169a6d",
+    "match_cost": 0.002
+  },
+  {
+    "user_id": "USR_041",
+    "applicant_id": "c4640d43-74f1-489e-931a-fc3bf20a8d13",
+    "match_cost": 0.009
+  },
+  {
+    "user_id": "USR_042",
+    "applicant_id": "a49192bc-2087-4dc5-a306-69f2690e98d5",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_043",
+    "applicant_id": "26c2eee6-e126-49c8-b162-011640e1be45",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_044",
+    "applicant_id": "e8e98ec0-28df-417c-af4e-f5739e59e9bd",
+    "match_cost": 0.201
+  },
+  {
+    "user_id": "USR_045",
+    "applicant_id": "14b1484d-7041-47b5-8a5b-c75b54b0eae1",
+    "match_cost": 0.002
+  },
+  {
+    "user_id": "USR_046",
+    "applicant_id": "7494866c-d5c9-4b7d-ba1f-16ab07b7700e",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_047",
+    "applicant_id": "62f2e28c-02c8-4ff6-86e6-577c2c4a6e16",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_048",
+    "applicant_id": "41f1538d-abb7-45a4-bf5c-6cfeb21046e5",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_049",
+    "applicant_id": "ceb18a46-3586-462c-810b-7f6583803dfe",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_050",
+    "applicant_id": "4f2cc6f5-3894-49d2-9599-6e91a7c079b8",
+    "match_cost": 0.011
+  },
+  {
+    "user_id": "USR_051",
+    "applicant_id": "a10fc0af-ac36-4adb-aec6-1d8c64dd1922",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_052",
+    "applicant_id": "7f1adccb-5564-4b96-a916-740d572966c5",
+    "match_cost": 0.004
+  },
+  {
+    "user_id": "USR_053",
+    "applicant_id": "1bd860e6-9758-4081-a215-a051ddbb8c19",
+    "match_cost": 0.003
+  },
+  {
+    "user_id": "USR_054",
+    "applicant_id": "a8c9e833-3c31-4868-879c-ded1e555025f",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_055",
+    "applicant_id": "943c2769-3a10-47a8-b041-da3326b52685",
+    "match_cost": 0.503
+  },
+  {
+    "user_id": "USR_056",
+    "applicant_id": "9cf2f9a1-23ce-4035-b3b1-97d6b0229f36",
+    "match_cost": 0.5
+  },
+  {
+    "user_id": "USR_057",
+    "applicant_id": "fb69b9d3-01e5-412b-91eb-f61c8f52dda3",
+    "match_cost": 0.302
+  },
+  {
+    "user_id": "USR_058",
+    "applicant_id": "bf2241d9-ba54-4a2a-9d64-7fdfa341d110",
+    "match_cost": 0.002
+  },
+  {
+    "user_id": "USR_059",
+    "applicant_id": "0abc206f-91aa-469a-a76c-2fbb1445e491",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_060",
+    "applicant_id": "3c78f6a7-38ed-4155-8d67-b561a4d87597",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_061",
+    "applicant_id": "0b26f708-c213-4dc2-a6d9-7f76be150d86",
+    "match_cost": 0.5
+  },
+  {
+    "user_id": "USR_062",
+    "applicant_id": "e75081ed-8eab-458c-81e4-46659e9ca569",
+    "match_cost": 0.014
+  },
+  {
+    "user_id": "USR_063",
+    "applicant_id": "560dfa5d-74d6-4337-956e-4aa9fc5965ce",
+    "match_cost": 0.201
+  },
+  {
+    "user_id": "USR_064",
+    "applicant_id": "12e56dfa-6e89-4891-8949-ddcaef51b06b",
+    "match_cost": 0.002
+  },
+  {
+    "user_id": "USR_065",
+    "applicant_id": "92f948f4-f6e0-47e3-83b1-9e4d61f9e3d8",
+    "match_cost": 0.002
+  },
+  {
+    "user_id": "USR_066",
+    "applicant_id": "afac8dea-e253-4eaf-96af-127d90215bed",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_067",
+    "applicant_id": "1427dbf7-dfe9-48d3-ade8-c4340d02a3c5",
+    "match_cost": 0.003
+  },
+  {
+    "user_id": "USR_068",
+    "applicant_id": "076f5398-f3ef-448e-a264-6c1d6bb21f36",
+    "match_cost": 0.301
+  },
+  {
+    "user_id": "USR_069",
+    "applicant_id": "8d458def-2906-4646-94d9-7032dc57432a",
+    "match_cost": 0.2
+  },
+  {
+    "user_id": "USR_070",
+    "applicant_id": "0073cbc8-55a1-45a3-8295-a2f464c397aa",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_071",
+    "applicant_id": "65b6eb54-be62-4862-93f3-77cbd5a3d96d",
+    "match_cost": 0.203
+  },
+  {
+    "user_id": "USR_072",
+    "applicant_id": "8a49d3ed-dedb-4640-8adc-f79dc9876537",
+    "match_cost": 0.003
+  },
+  {
+    "user_id": "USR_073",
+    "applicant_id": "86477132-595f-4a6f-a1c2-1c162f26f666",
+    "match_cost": 0.015
+  },
+  {
+    "user_id": "USR_074",
+    "applicant_id": "7710a5d7-cab2-497c-a2de-f256d89330e0",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_075",
+    "applicant_id": "aa656ff8-c01b-425a-a306-7c445e7dcb3d",
+    "match_cost": 0.2
+  },
+  {
+    "user_id": "USR_076",
+    "applicant_id": "79c172c5-b191-4a57-8ab9-b6bc65b90c90",
+    "match_cost": 0.005
+  },
+  {
+    "user_id": "USR_077",
+    "applicant_id": "89bd9c88-3ed5-4256-8c2c-b3e3537703b8",
+    "match_cost": 0.007
+  },
+  {
+    "user_id": "USR_078",
+    "applicant_id": "71256ac0-0f9b-4b8f-939f-c70665731857",
+    "match_cost": 0.201
+  },
+  {
+    "user_id": "USR_079",
+    "applicant_id": "2e8d1d99-4f07-4084-8ff0-052873a3d118",
+    "match_cost": 0.0491
+  },
+  {
+    "user_id": "USR_080",
+    "applicant_id": "a41f1175-9c89-4db3-aa91-193a5932c020",
+    "match_cost": 0.002
+  },
+  {
+    "user_id": "USR_081",
+    "applicant_id": "a3f0695c-f106-4791-812e-00d0120f52b9",
+    "match_cost": 0.017
+  },
+  {
+    "user_id": "USR_082",
+    "applicant_id": "bf930c02-8283-4abf-8b62-4e70fcb30896",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_083",
+    "applicant_id": "5a0c6e70-a4e9-433e-8d0e-893961ec3efa",
+    "match_cost": 0.302
+  },
+  {
+    "user_id": "USR_084",
+    "applicant_id": "eb2f30d4-28b2-4fbc-adb8-f4d5333620c6",
+    "match_cost": 0.3
+  },
+  {
+    "user_id": "USR_085",
+    "applicant_id": "6b499895-db12-4431-8c67-6a84d6a2bc93",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_086",
+    "applicant_id": "cfb8cbfd-4174-4d66-9eaf-868920f449e8",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_087",
+    "applicant_id": "57abdb9f-787e-4f0f-8a18-4cfeeb6f1479",
+    "match_cost": 0.002
+  },
+  {
+    "user_id": "USR_088",
+    "applicant_id": "9d55ad87-922f-413c-8559-f02bf8dc9b8f",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_089",
+    "applicant_id": "af0658e7-55e0-4dc9-a89c-10cfd05262fa",
+    "match_cost": 0.203
+  },
+  {
+    "user_id": "USR_090",
+    "applicant_id": "f85a9e9a-39fc-4018-aca9-537045c86766",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_091",
+    "applicant_id": "e71f1848-83d2-4240-bc62-902f6a0d33c9",
+    "match_cost": 0.016
+  },
+  {
+    "user_id": "USR_092",
+    "applicant_id": "15d97a06-e5ea-4611-bd24-226f09aee24f",
+    "match_cost": 0.207
+  },
+  {
+    "user_id": "USR_093",
+    "applicant_id": "fc33f9b0-8418-46aa-a898-cd0a0719506b",
+    "match_cost": 0.003
+  },
+  {
+    "user_id": "USR_094",
+    "applicant_id": "fb171950-3d5b-41ac-801a-809bddb6d053",
+    "match_cost": 0.008
+  },
+  {
+    "user_id": "USR_095",
+    "applicant_id": "9ea71669-ef67-49aa-9a15-aa380af16505",
+    "match_cost": 0.2
+  },
+  {
+    "user_id": "USR_096",
+    "applicant_id": "d1aab0d4-20aa-45b9-b697-bfb8a51f7df2",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_097",
+    "applicant_id": "d22976a2-b542-4ca5-9b80-39f7a7a147c4",
+    "match_cost": 0.3
+  },
+  {
+    "user_id": "USR_098",
+    "applicant_id": "ed8fb86e-113c-485e-97ee-00a219ba10d8",
+    "match_cost": 0.306
+  },
+  {
+    "user_id": "USR_099",
+    "applicant_id": "71710ae9-67fe-4f23-a416-293ab13132a1",
+    "match_cost": 0.502
+  },
+  {
+    "user_id": "USR_100",
+    "applicant_id": "ba0b8292-79cb-4332-ab23-18040d3a2f78",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_101",
+    "applicant_id": "3ecf9a57-d56f-4975-b22a-a1ed9669a3a9",
+    "match_cost": 0.005
+  },
+  {
+    "user_id": "USR_102",
+    "applicant_id": "302b7b0f-2dbc-427e-b9f4-db2d19f9e138",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_103",
+    "applicant_id": "a69c26af-18ae-4e2e-9164-382ecef3c810",
+    "match_cost": 0.002
+  },
+  {
+    "user_id": "USR_104",
+    "applicant_id": "3aeb1a1c-af8c-4ea9-b13b-a231cb7d077a",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_105",
+    "applicant_id": "928d56eb-13de-4a08-8885-d73a5bf8043d",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_106",
+    "applicant_id": "0df1e7e9-41aa-4e45-86ca-f30184114aa2",
+    "match_cost": 0.2
+  },
+  {
+    "user_id": "USR_107",
+    "applicant_id": "7b46e1a5-ce73-4d15-adb4-fafd6bfe23a2",
+    "match_cost": 0.205
+  },
+  {
+    "user_id": "USR_108",
+    "applicant_id": "c693b4af-4852-4b4d-9ca6-38ec191250a3",
+    "match_cost": 0.205
+  },
+  {
+    "user_id": "USR_109",
+    "applicant_id": "7d8c60dd-279d-4485-9797-0339fdcf3a0b",
+    "match_cost": 0.2
+  },
+  {
+    "user_id": "USR_110",
+    "applicant_id": "37e1633f-7b7e-47f0-8444-a2f8d85bee29",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_111",
+    "applicant_id": "824895cf-a6a1-435a-8e86-d033ab39bea7",
+    "match_cost": 0.003
+  },
+  {
+    "user_id": "USR_112",
+    "applicant_id": "448a8f1f-eacf-4575-a7ca-474b7f9ea64e",
+    "match_cost": 0.012
+  },
+  {
+    "user_id": "USR_113",
+    "applicant_id": "10fcaf88-dece-43c4-993d-b4ca9bd91a93",
+    "match_cost": 0.007
+  },
+  {
+    "user_id": "USR_114",
+    "applicant_id": "e17eae13-5da4-41d3-bbf5-35990c7ae146",
+    "match_cost": 0.203
+  },
+  {
+    "user_id": "USR_115",
+    "applicant_id": "426a2fe9-539c-40e8-8fae-35d998dd3b6b",
+    "match_cost": 0.014
+  },
+  {
+    "user_id": "USR_116",
+    "applicant_id": "4e5e9d03-d7a9-498f-a6f9-591bc6c476b1",
+    "match_cost": 0.207
+  },
+  {
+    "user_id": "USR_117",
+    "applicant_id": "f7e9737a-4dd9-4258-a87a-1e2e20c14b3b",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_118",
+    "applicant_id": "d1fbacfc-9652-4700-a0f1-1404a0fa726a",
+    "match_cost": 0.003
+  },
+  {
+    "user_id": "USR_119",
+    "applicant_id": "a7488f6f-76b1-43d6-94c9-30715356a3fc",
+    "match_cost": 0.203
+  },
+  {
+    "user_id": "USR_120",
+    "applicant_id": "70b1a00f-34ed-4813-bcad-639dd2cefec1",
+    "match_cost": 0.003
+  },
+  {
+    "user_id": "USR_121",
+    "applicant_id": "867b231c-ac60-45da-9f44-1304edfef85a",
+    "match_cost": 0.0511
+  },
+  {
+    "user_id": "USR_122",
+    "applicant_id": "8b1ccb7c-8041-467a-b3b7-bf50942ac5fb",
+    "match_cost": 0.003
+  },
+  {
+    "user_id": "USR_123",
+    "applicant_id": "b5567055-6d8f-4f9f-91cf-fc7afc0c5e32",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_124",
+    "applicant_id": "b8a17a3e-685e-4d62-a0ef-6ef45ad33f67",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_125",
+    "applicant_id": "0828a28c-9ffa-46e7-9ae8-df1802b87199",
+    "match_cost": 0.003
+  },
+  {
+    "user_id": "USR_126",
+    "applicant_id": "0c193e4a-66f1-48d2-8b70-6f8313de307f",
+    "match_cost": 0.005
+  },
+  {
+    "user_id": "USR_127",
+    "applicant_id": "a4f67ddb-1aa9-448e-b2aa-79d73df8d164",
+    "match_cost": 0.011
+  },
+  {
+    "user_id": "USR_128",
+    "applicant_id": "51702b26-56f2-4f8b-8dcb-67f075489521",
+    "match_cost": 0.003
+  },
+  {
+    "user_id": "USR_129",
+    "applicant_id": "d3f2f24e-91f6-48cb-a9eb-cb71eae70f51",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_130",
+    "applicant_id": "a15defc0-a4de-42a1-9498-246fa5d5146a",
+    "match_cost": 0.2
+  },
+  {
+    "user_id": "USR_131",
+    "applicant_id": "20cf5af3-7976-4181-853e-eaa5dabb37dc",
+    "match_cost": 0.2
+  },
+  {
+    "user_id": "USR_132",
+    "applicant_id": "9030cc06-6fbc-49da-a849-87c4cb2472a4",
+    "match_cost": 0.201
+  },
+  {
+    "user_id": "USR_133",
+    "applicant_id": "5bb53257-dbc2-4f3f-a751-583e1061a95a",
+    "match_cost": 0.002
+  },
+  {
+    "user_id": "USR_134",
+    "applicant_id": "c68c435c-f98d-4235-9895-3bde968e5b92",
+    "match_cost": 0.205
+  },
+  {
+    "user_id": "USR_135",
+    "applicant_id": "025c29fd-268a-48c1-8327-1b095691f3e9",
+    "match_cost": 0.0341
+  },
+  {
+    "user_id": "USR_136",
+    "applicant_id": "25c9b300-4330-420b-8319-70ce361ce352",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_137",
+    "applicant_id": "0da35e91-23c0-4db6-a5f9-0c36539bd0a7",
+    "match_cost": 0.4583
+  },
+  {
+    "user_id": "USR_138",
+    "applicant_id": "6d7531d6-5bdc-4272-b03d-b6e2f46e99ce",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_139",
+    "applicant_id": "0da92ad5-0007-4e1d-a2fe-6596479c3422",
+    "match_cost": 0.004
+  },
+  {
+    "user_id": "USR_140",
+    "applicant_id": "dbff3560-4594-4799-b197-6bded113dd65",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_141",
+    "applicant_id": "fcf715dc-b79b-4aa2-a809-1e7a24ce2239",
+    "match_cost": 0.2
+  },
+  {
+    "user_id": "USR_142",
+    "applicant_id": "93d842cb-de40-498c-9f99-6b4a3094c9cb",
+    "match_cost": 0.215
+  },
+  {
+    "user_id": "USR_143",
+    "applicant_id": "3325a213-6b36-40ab-8534-ea0fd3b78b0f",
+    "match_cost": 0.0721
+  },
+  {
+    "user_id": "USR_144",
+    "applicant_id": "1a98fd5f-26a5-4a08-907f-3a73315e5f7d",
+    "match_cost": 0.201
+  },
+  {
+    "user_id": "USR_145",
+    "applicant_id": "07f20059-4fa0-49d0-848f-d3351c81e4a9",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_146",
+    "applicant_id": "96a484e5-3cb4-452a-8f8d-84c50d6c66e7",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_147",
+    "applicant_id": "fb74a64c-a46c-4e7d-83d4-16e159c9a678",
+    "match_cost": 0.004
+  },
+  {
+    "user_id": "USR_148",
+    "applicant_id": "e5b3be6e-aa37-49a3-8605-40ad0b4d3198",
+    "match_cost": 0.009
+  },
+  {
+    "user_id": "USR_149",
+    "applicant_id": "5279ec2a-6587-4ad1-a7c1-1846b8a36211",
+    "match_cost": 0.3
+  },
+  {
+    "user_id": "USR_150",
+    "applicant_id": "cf8f6107-bea4-4c92-aabb-8e8bda052d8d",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_151",
+    "applicant_id": "1074abc4-63ce-49d2-b7c9-1903848af90b",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_152",
+    "applicant_id": "f93917e7-3919-4cb1-b7c4-28309cdf6b83",
+    "match_cost": 0.201
+  },
+  {
+    "user_id": "USR_153",
+    "applicant_id": "78a892f8-9385-4659-83a8-8b35130bcecc",
+    "match_cost": 0.01
+  },
+  {
+    "user_id": "USR_154",
+    "applicant_id": "c002fbac-8f01-498d-87de-956b838691ab",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_155",
+    "applicant_id": "d2a7bde0-5f99-4c92-8517-15392d7c5227",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_156",
+    "applicant_id": "c0e3a4b2-0650-4ade-918c-e197e59f4adb",
+    "match_cost": 0.004
+  },
+  {
+    "user_id": "USR_157",
+    "applicant_id": "4b7a9997-f36b-41ba-9284-6eb044d4fa25",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_158",
+    "applicant_id": "59d5aeef-0b84-4317-b0ad-16b51202a0d5",
+    "match_cost": 0.304
+  },
+  {
+    "user_id": "USR_159",
+    "applicant_id": "28e6f012-6816-432a-8c94-f69dd723a7e6",
+    "match_cost": 0.203
+  },
+  {
+    "user_id": "USR_160",
+    "applicant_id": "441108e5-aad5-4d0a-b5cd-384e97101516",
+    "match_cost": 0.019
+  },
+  {
+    "user_id": "USR_161",
+    "applicant_id": "0f505b51-b4e9-4f59-8aa9-bfbc4cf9b289",
+    "match_cost": 0.006
+  },
+  {
+    "user_id": "USR_162",
+    "applicant_id": "4577c8c3-2d94-4dd7-88f8-5fbaa7c47351",
+    "match_cost": 0.008
+  },
+  {
+    "user_id": "USR_163",
+    "applicant_id": "816396c2-8868-4308-8932-44523cef5fc7",
+    "match_cost": 0.009
+  },
+  {
+    "user_id": "USR_164",
+    "applicant_id": "9af962c6-58fc-477e-8dff-316a4a1a7c33",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_165",
+    "applicant_id": "c07e1166-6810-4140-9356-abcfd57a0d07",
+    "match_cost": 0.503
+  },
+  {
+    "user_id": "USR_166",
+    "applicant_id": "80273a1b-de06-436b-af08-d97aad73ba3d",
+    "match_cost": 0.011
+  },
+  {
+    "user_id": "USR_167",
+    "applicant_id": "4486f108-c5f0-488f-b74c-b20e12eef44e",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_168",
+    "applicant_id": "790629ad-22ab-47f4-ad9c-e7f7f42fe61c",
+    "match_cost": 0.002
+  },
+  {
+    "user_id": "USR_169",
+    "applicant_id": "d7ca6b08-f9be-4aa1-b492-2cad81b0054c",
+    "match_cost": 0.201
+  },
+  {
+    "user_id": "USR_170",
+    "applicant_id": "a23f2adb-d223-48dc-aa33-627b92271449",
+    "match_cost": 0.202
+  },
+  {
+    "user_id": "USR_171",
+    "applicant_id": "42434a19-6dc3-44b5-be30-04e7b45035d7",
+    "match_cost": 0.205
+  },
+  {
+    "user_id": "USR_172",
+    "applicant_id": "d8734934-6558-4385-aa4a-44d204f12a5f",
+    "match_cost": 0.3
+  },
+  {
+    "user_id": "USR_173",
+    "applicant_id": "ed15f1b1-82f5-4619-ba85-a522361d2464",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_174",
+    "applicant_id": "a09ae682-2cb1-41c0-a6a0-80e1c570e80f",
+    "match_cost": 0.202
+  },
+  {
+    "user_id": "USR_175",
+    "applicant_id": "fa4c132b-3492-45d4-9293-cb2d49024ec5",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_176",
+    "applicant_id": "d3dc557e-bfa1-4afb-a5b3-962d7633bf11",
+    "match_cost": 0.002
+  },
+  {
+    "user_id": "USR_177",
+    "applicant_id": "1f9b28b6-6f24-4422-86f6-8f19f008e860",
+    "match_cost": 0.201
+  },
+  {
+    "user_id": "USR_178",
+    "applicant_id": "d3872a92-4a09-4f04-8509-6bb683353500",
+    "match_cost": 0.202
+  },
+  {
+    "user_id": "USR_179",
+    "applicant_id": "2d85daa3-a9a8-4ded-9e5d-1204ee3b3a27",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_180",
+    "applicant_id": "b4b8e5e3-7988-4f95-ac0b-e5767c769242",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_181",
+    "applicant_id": "e35101d6-4e70-4fe1-b859-7df88471b65c",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_182",
+    "applicant_id": "f38c4d05-b4dc-4441-b058-35d0d8195b45",
+    "match_cost": 0.205
+  },
+  {
+    "user_id": "USR_183",
+    "applicant_id": "54f1b15c-d341-4203-865a-7d4179b5988a",
+    "match_cost": 0.201
+  },
+  {
+    "user_id": "USR_184",
+    "applicant_id": "d1f52eb1-92c2-4fe0-b2ec-0c6f31bb49d0",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_185",
+    "applicant_id": "e135eb11-9a66-4f10-a412-44b29340870b",
+    "match_cost": 0.2
+  },
+  {
+    "user_id": "USR_186",
+    "applicant_id": "c2588484-8178-4437-8ad2-cf9f8ce1da9f",
+    "match_cost": 0.004
+  },
+  {
+    "user_id": "USR_187",
+    "applicant_id": "2340e1e3-8bda-4893-a858-cab0317856ad",
+    "match_cost": 0.0261
+  },
+  {
+    "user_id": "USR_188",
+    "applicant_id": "040f25de-fb7a-4676-81f9-04d123b3d682",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_189",
+    "applicant_id": "2b31d77d-cdfd-4815-bf9b-d9eb029e58d5",
+    "match_cost": 0.201
+  },
+  {
+    "user_id": "USR_190",
+    "applicant_id": "c20afa16-6d9c-40fd-b755-06371e5b2e9d",
+    "match_cost": 0.501
+  },
+  {
+    "user_id": "USR_191",
+    "applicant_id": "21999faf-e447-4c30-8c35-54a3d5ce806e",
+    "match_cost": 0.003
+  },
+  {
+    "user_id": "USR_192",
+    "applicant_id": "ac312242-2217-408d-a735-0e06947b80d5",
+    "match_cost": 0.2
+  },
+  {
+    "user_id": "USR_193",
+    "applicant_id": "5e5737dc-07b9-43af-ab18-d2150cec1bd4",
+    "match_cost": 0.201
+  },
+  {
+    "user_id": "USR_194",
+    "applicant_id": "cee321b8-754e-430a-af0f-e7631bad600c",
+    "match_cost": 0.1112
+  },
+  {
+    "user_id": "USR_195",
+    "applicant_id": "f94f78fb-0b08-499f-af99-3380d1ec7db0",
+    "match_cost": 0.011
+  },
+  {
+    "user_id": "USR_196",
+    "applicant_id": "a9b9ee05-e70a-4dea-b3d1-31e9f03d6dd2",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_197",
+    "applicant_id": "ebb5c9db-62fe-400c-9793-1a835b188059",
+    "match_cost": 0.018
+  },
+  {
+    "user_id": "USR_198",
+    "applicant_id": "b42d9a41-31e3-4d62-88d0-36a20f59544c",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_199",
+    "applicant_id": "a10cd432-62db-4851-82a0-aea68105d7f3",
+    "match_cost": 0.005
+  },
+  {
+    "user_id": "USR_200",
+    "applicant_id": "059feb1f-3cf1-4871-839e-495e4e7ef21b",
+    "match_cost": 0.204
+  },
+  {
+    "user_id": "USR_201",
+    "applicant_id": "1feb1587-e820-4158-a9ae-d90400b41851",
+    "match_cost": 0.0271
+  },
+  {
+    "user_id": "USR_202",
+    "applicant_id": "70ec8ca2-14d9-49d1-b581-7760ca7c3d60",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_203",
+    "applicant_id": "c297be7d-f8d4-4585-b60c-619dde57b762",
+    "match_cost": 0.007
+  },
+  {
+    "user_id": "USR_204",
+    "applicant_id": "f29fbc39-9999-4be9-ab17-86b90adfee9f",
+    "match_cost": 0.009
+  },
+  {
+    "user_id": "USR_205",
+    "applicant_id": "a6e311fa-d130-42da-8afe-f043561eb10b",
+    "match_cost": 0.201
+  },
+  {
+    "user_id": "USR_206",
+    "applicant_id": "2c630ce4-129a-4c9c-a770-58aced001e49",
+    "match_cost": 0.005
+  },
+  {
+    "user_id": "USR_207",
+    "applicant_id": "cf5b3335-a26a-4e81-80ad-15796e07c5c0",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_208",
+    "applicant_id": "31fea701-5e2e-4ead-8013-322bc05a1e1d",
+    "match_cost": 0.002
+  },
+  {
+    "user_id": "USR_209",
+    "applicant_id": "d78bf91b-5e62-475e-95fb-fb4a04697067",
+    "match_cost": 0.014
+  },
+  {
+    "user_id": "USR_210",
+    "applicant_id": "16409bfb-ed26-4f92-a6af-ffe6f3472e11",
+    "match_cost": 0.2
+  },
+  {
+    "user_id": "USR_211",
+    "applicant_id": "31fdaa9d-d83f-4a0b-a5e4-2398e9cdfe35",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_212",
+    "applicant_id": "4ccab7d6-4bf8-4aa2-9192-899624dc5297",
+    "match_cost": 0.308
+  },
+  {
+    "user_id": "USR_213",
+    "applicant_id": "7c4630c3-eb45-48d0-ab02-1adfc1fef302",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_214",
+    "applicant_id": "737ed43f-9299-46fd-8842-3e9e23990604",
+    "match_cost": 0.2
+  },
+  {
+    "user_id": "USR_215",
+    "applicant_id": "647c5882-4e4a-4be2-a3c0-495bb35300b4",
+    "match_cost": 0.5
+  },
+  {
+    "user_id": "USR_216",
+    "applicant_id": "215e258c-5c6e-4bde-8a6c-4046f6271546",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_217",
+    "applicant_id": "a48f132f-b61f-4970-874c-4e1a165413a0",
+    "match_cost": 0.01
+  },
+  {
+    "user_id": "USR_218",
+    "applicant_id": "e56f6e25-a1da-4725-b89e-729f987c4393",
+    "match_cost": 0.201
+  },
+  {
+    "user_id": "USR_219",
+    "applicant_id": "084db500-ea16-49d3-ac30-82c7e16ca610",
+    "match_cost": 0.206
+  },
+  {
+    "user_id": "USR_220",
+    "applicant_id": "755a3936-541e-4927-a9bd-a4e56bbdb65f",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_221",
+    "applicant_id": "02f513a3-56be-4be7-bc13-e43ee27e6d91",
+    "match_cost": 0.303
+  },
+  {
+    "user_id": "USR_222",
+    "applicant_id": "fb562539-5df2-4dc3-8224-87f2f64b85d9",
+    "match_cost": 0.002
+  },
+  {
+    "user_id": "USR_223",
+    "applicant_id": "8953e592-0390-4890-a20d-d0ae2b9c626a",
+    "match_cost": 0.005
+  },
+  {
+    "user_id": "USR_224",
+    "applicant_id": "9e92c114-11bb-4354-93da-e3fcf2bb70f0",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_225",
+    "applicant_id": "530d1eb6-aa31-4020-a5f3-ea1fc6fecfb4",
+    "match_cost": 0.2154
+  },
+  {
+    "user_id": "USR_226",
+    "applicant_id": "0f1c5836-fb1e-4757-acdc-49fcaec970da",
+    "match_cost": 0.2
+  },
+  {
+    "user_id": "USR_227",
+    "applicant_id": "3626cb00-fdcd-4fee-a054-9e104837d54f",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_228",
+    "applicant_id": "30aaa588-3719-4b13-813a-e97709e33729",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_229",
+    "applicant_id": "bba3b5e7-2a6f-4e79-b10d-d5b5a3798a3e",
+    "match_cost": 0.002
+  },
+  {
+    "user_id": "USR_230",
+    "applicant_id": "22789da9-7f67-40ae-8485-ffb6b0717afa",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_231",
+    "applicant_id": "d0a9677d-3a12-4275-a7b6-3d3fdfd2940b",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_232",
+    "applicant_id": "24b6837f-224d-41fb-87cb-a4b12d1fa0b3",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_233",
+    "applicant_id": "72a9071d-a338-41d2-917d-beb67b63d17a",
+    "match_cost": 0.3
+  },
+  {
+    "user_id": "USR_234",
+    "applicant_id": "7473faca-7a95-465e-ac7a-b20c7149c37f",
+    "match_cost": 0.009
+  },
+  {
+    "user_id": "USR_235",
+    "applicant_id": "76eae53a-216b-4c1e-a35a-7bcba7ef7762",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_236",
+    "applicant_id": "3d1e05b0-e506-4421-86e5-f9d5ad308546",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_237",
+    "applicant_id": "339f9b30-be94-4174-97a9-d22d4c015644",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_238",
+    "applicant_id": "93cc5dfb-c803-4eff-bd16-7a4107f8fc29",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_239",
+    "applicant_id": "0f7b1bf1-d6fb-4a82-8f4f-2c80bfaf2109",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_240",
+    "applicant_id": "381da1d3-8dac-4470-9b51-d9d6a380c19f",
+    "match_cost": 0.003
+  },
+  {
+    "user_id": "USR_241",
+    "applicant_id": "15e61838-e7b7-4bce-a35f-c59dd4e9bfa0",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_242",
+    "applicant_id": "4418a475-decc-42c8-8526-8fbb78bd0e3d",
+    "match_cost": 0.2
+  },
+  {
+    "user_id": "USR_243",
+    "applicant_id": "2fa9dba4-089b-46bc-8df5-9622ba7957a2",
+    "match_cost": 0.204
+  },
+  {
+    "user_id": "USR_244",
+    "applicant_id": "046cf11d-3acc-4ca8-9023-57c6620d6184",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_245",
+    "applicant_id": "608ee101-f608-4df4-bb68-88444c626759",
+    "match_cost": 0.0581
+  },
+  {
+    "user_id": "USR_246",
+    "applicant_id": "d99cd877-13c9-4441-b3f7-5fc64981a633",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_247",
+    "applicant_id": "a4ebf9f3-2779-4c22-81ab-32758701e5f5",
+    "match_cost": 0.2
+  },
+  {
+    "user_id": "USR_248",
+    "applicant_id": "d31473eb-0347-42d7-a69a-80176a04fcda",
+    "match_cost": 0.3
+  },
+  {
+    "user_id": "USR_249",
+    "applicant_id": "f600ed76-2132-40ba-ba86-cf94409276c8",
+    "match_cost": 0.002
+  },
+  {
+    "user_id": "USR_250",
+    "applicant_id": "a077f629-c7f9-4d0c-8780-39731fd76a0a",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_251",
+    "applicant_id": "7390adac-43f2-46c4-a141-b02143a845db",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_252",
+    "applicant_id": "2ecf47e9-d877-4d96-b0a0-7461f979d3eb",
+    "match_cost": 0.204
+  },
+  {
+    "user_id": "USR_253",
+    "applicant_id": "b4467ad1-d717-4b96-a669-e0a61ac0c326",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_254",
+    "applicant_id": "4b5173a9-5603-4126-81a5-937bdfd5d4b3",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_255",
+    "applicant_id": "82b41fa2-0b44-4781-83d3-84f0dbc6bf67",
+    "match_cost": 0.503
+  },
+  {
+    "user_id": "USR_256",
+    "applicant_id": "17b829c4-f5ac-41cc-a4be-3da9b5ea8596",
+    "match_cost": 0.008
+  },
+  {
+    "user_id": "USR_257",
+    "applicant_id": "e673268d-f916-4d60-811d-50eedc16591e",
+    "match_cost": 0.0321
+  },
+  {
+    "user_id": "USR_258",
+    "applicant_id": "30400d4e-b4a9-4a85-987f-8435357e29f0",
+    "match_cost": 0.011
+  },
+  {
+    "user_id": "USR_259",
+    "applicant_id": "82c98232-c6e9-43b5-afa9-f73cd8623210",
+    "match_cost": 0.006
+  },
+  {
+    "user_id": "USR_260",
+    "applicant_id": "866214b8-88b4-4576-9d53-5a808f1adea3",
+    "match_cost": 0.004
+  },
+  {
+    "user_id": "USR_261",
+    "applicant_id": "29396b77-12bd-40b0-a427-1f3eb5f90493",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_262",
+    "applicant_id": "a0fb4f15-018a-4693-b10a-ae45888d22fe",
+    "match_cost": 0.005
+  },
+  {
+    "user_id": "USR_263",
+    "applicant_id": "4213e421-8d01-471c-b567-46936d1d6319",
+    "match_cost": 0.005
+  },
+  {
+    "user_id": "USR_264",
+    "applicant_id": "9b82fc0b-236b-4324-8689-edc56b458316",
+    "match_cost": 0.005
+  },
+  {
+    "user_id": "USR_265",
+    "applicant_id": "ffb48ac4-158f-4023-9081-11d650df88f5",
+    "match_cost": 0.303
+  },
+  {
+    "user_id": "USR_266",
+    "applicant_id": "b310cfd8-74f8-4b04-b43a-748dff8a90a0",
+    "match_cost": 0.008
+  },
+  {
+    "user_id": "USR_267",
+    "applicant_id": "3e1dc08a-d8be-4142-9973-9932347c4747",
+    "match_cost": 0.201
+  },
+  {
+    "user_id": "USR_268",
+    "applicant_id": "2093be7a-8917-442d-93e7-e89579d1fcf6",
+    "match_cost": 0.007
+  },
+  {
+    "user_id": "USR_269",
+    "applicant_id": "1a185ce9-b708-4d1f-921e-9a5891e08d95",
+    "match_cost": 0.0401
+  },
+  {
+    "user_id": "USR_270",
+    "applicant_id": "84fc5a55-061d-4c01-8224-59d12affccbc",
+    "match_cost": 0.003
+  },
+  {
+    "user_id": "USR_271",
+    "applicant_id": "10d846de-1d27-42ef-846c-ff466208833d",
+    "match_cost": 0.011
+  },
+  {
+    "user_id": "USR_272",
+    "applicant_id": "68fa543e-63b0-40d2-a726-de87d0d98b5c",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_273",
+    "applicant_id": "dbff27ac-67b4-48ea-8b64-3c6604544a0e",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_274",
+    "applicant_id": "9f15743c-e84a-47ec-b4ee-dd69eadd6cda",
+    "match_cost": 0.011
+  },
+  {
+    "user_id": "USR_275",
+    "applicant_id": "d8b30ffa-a27e-490b-9b1a-44e92c44bc8b",
+    "match_cost": 0.204
+  },
+  {
+    "user_id": "USR_276",
+    "applicant_id": "dce33928-8e6a-429d-b3ae-1eca6b838cc0",
+    "match_cost": 0.201
+  },
+  {
+    "user_id": "USR_277",
+    "applicant_id": "189d580c-85d4-44df-bb06-ebf0e29e56e6",
+    "match_cost": 0.203
+  },
+  {
+    "user_id": "USR_278",
+    "applicant_id": "361c5453-c5a9-48c7-b009-481978ad3a1b",
+    "match_cost": 0.007
+  },
+  {
+    "user_id": "USR_279",
+    "applicant_id": "4855410d-614b-44f5-a73c-95797ca66674",
+    "match_cost": 0.0531
+  },
+  {
+    "user_id": "USR_280",
+    "applicant_id": "115fb8a1-a18d-461a-94da-7f204dc56b71",
+    "match_cost": 0.002
+  },
+  {
+    "user_id": "USR_281",
+    "applicant_id": "62531a1b-15d8-4e63-83f9-ceaa1d3d6647",
+    "match_cost": 0.204
+  },
+  {
+    "user_id": "USR_282",
+    "applicant_id": "7a1b8c4c-b77f-4bae-8589-8c8b2a9d0b8c",
+    "match_cost": 0.003
+  },
+  {
+    "user_id": "USR_283",
+    "applicant_id": "f97f365c-765c-4e2c-8f21-99c40a04c4c2",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_284",
+    "applicant_id": "f293d9e6-d61a-4f33-ba8c-13789e621e8b",
+    "match_cost": 0.205
+  },
+  {
+    "user_id": "USR_285",
+    "applicant_id": "b1cc7b9e-3af7-4522-a8ac-30573c882739",
+    "match_cost": 0.004
+  },
+  {
+    "user_id": "USR_286",
+    "applicant_id": "5c1c009c-d5aa-4aca-86dd-1fb9423b775b",
+    "match_cost": 0.32
+  },
+  {
+    "user_id": "USR_287",
+    "applicant_id": "7b874882-299b-4e54-860d-9dec653a8310",
+    "match_cost": 0.009
+  },
+  {
+    "user_id": "USR_288",
+    "applicant_id": "20211843-0514-4f7f-ac93-9fdaa4fee8c7",
+    "match_cost": 0.3
+  },
+  {
+    "user_id": "USR_289",
+    "applicant_id": "a3251274-7e14-4181-a5ae-f9d9940f87b1",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_290",
+    "applicant_id": "e6e39118-3aeb-43ce-95e8-a477021a6198",
+    "match_cost": 0.005
+  },
+  {
+    "user_id": "USR_291",
+    "applicant_id": "c88a9dff-2f52-4ae7-b428-fe442a99c1f6",
+    "match_cost": 0.005
+  },
+  {
+    "user_id": "USR_292",
+    "applicant_id": "dcae897f-8528-4a7a-b34b-31771635d60a",
+    "match_cost": 0.01
+  },
+  {
+    "user_id": "USR_293",
+    "applicant_id": "bb5c77e0-1d28-4cf8-963a-34358dd4c0e0",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_294",
+    "applicant_id": "70458923-f07e-45b5-8d75-80078b076ecb",
+    "match_cost": 0.003
+  },
+  {
+    "user_id": "USR_295",
+    "applicant_id": "23e64637-44b5-4b66-abd6-6a1c9217fa08",
+    "match_cost": 0.006
+  },
+  {
+    "user_id": "USR_296",
+    "applicant_id": "bf0080e2-7d65-4978-950f-dec98541ad88",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_297",
+    "applicant_id": "a8387101-4422-4865-a20e-f24b0f1f9195",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_298",
+    "applicant_id": "dd32d490-7a9c-498f-9b8c-5498225ae680",
+    "match_cost": 0.005
+  },
+  {
+    "user_id": "USR_299",
+    "applicant_id": "a6df8b97-496a-43d4-98f7-3a84495e6faa",
+    "match_cost": 0.002
+  },
+  {
+    "user_id": "USR_300",
+    "applicant_id": "b5fc9ac3-2860-44ca-acfb-67a959df8ef4",
+    "match_cost": 0.011
+  },
+  {
+    "user_id": "USR_301",
+    "applicant_id": "e4b8f3fd-fc8a-4414-ad30-c47670bd774e",
+    "match_cost": 0.005
+  },
+  {
+    "user_id": "USR_302",
+    "applicant_id": "91bc720e-49db-465c-ab93-bc4d75b74306",
+    "match_cost": 0.002
+  },
+  {
+    "user_id": "USR_303",
+    "applicant_id": "0ffb6f26-d0a5-4499-8ae3-5e59042b4b90",
+    "match_cost": 0.0391
+  },
+  {
+    "user_id": "USR_304",
+    "applicant_id": "34252c52-c1b5-41ae-b7b7-1aa0c80a357f",
+    "match_cost": 0.004
+  },
+  {
+    "user_id": "USR_305",
+    "applicant_id": "2028a0bd-c717-4be5-8972-773227cdbfb6",
+    "match_cost": 0.2
+  },
+  {
+    "user_id": "USR_306",
+    "applicant_id": "629e2a00-df19-4cc8-b428-6e72995ad891",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_307",
+    "applicant_id": "7e81f00c-03e4-47d7-899b-f6c284b4e5e1",
+    "match_cost": 0.006
+  },
+  {
+    "user_id": "USR_308",
+    "applicant_id": "43ec2fd0-d716-47a5-b910-cdc03fda7f89",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_309",
+    "applicant_id": "0705f2a3-181c-4c71-a30f-8d1548976f78",
+    "match_cost": 0.009
+  },
+  {
+    "user_id": "USR_310",
+    "applicant_id": "0f6455c0-4a16-4327-92b9-1b53c09dfd64",
+    "match_cost": 0.012
+  },
+  {
+    "user_id": "USR_311",
+    "applicant_id": "7d84ba84-57c2-47dc-8597-39d33c4bf01d",
+    "match_cost": 0.009
+  },
+  {
+    "user_id": "USR_312",
+    "applicant_id": "1d082b51-0e7a-43ed-a9e7-c7d519201146",
+    "match_cost": 0.002
+  },
+  {
+    "user_id": "USR_313",
+    "applicant_id": "018dda3a-a59e-43d5-a549-542f27583f75",
+    "match_cost": 0.3
+  },
+  {
+    "user_id": "USR_314",
+    "applicant_id": "229a0300-991f-4747-90c6-099e1d0a7c03",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_315",
+    "applicant_id": "4e211c20-25b7-43c1-a248-af6f0e1e548a",
+    "match_cost": 0.002
+  },
+  {
+    "user_id": "USR_316",
+    "applicant_id": "5155ddbc-cbf1-4dca-9722-c342cca04cf4",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_317",
+    "applicant_id": "57af7111-5701-4278-9a2c-ae4533691605",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_318",
+    "applicant_id": "117c8f73-949b-4a8d-af16-eb4362bccf5c",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_319",
+    "applicant_id": "274764f6-cfe7-4393-9369-5315baf99564",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_320",
+    "applicant_id": "328100b6-a1c0-4dac-82d5-b46f87c34d2b",
+    "match_cost": 0.002
+  },
+  {
+    "user_id": "USR_321",
+    "applicant_id": "46be5203-8480-4eb4-84de-6616929bf7b4",
+    "match_cost": 0.205
+  },
+  {
+    "user_id": "USR_322",
+    "applicant_id": "b4f7eb8e-3b7d-4422-bffb-8e0fc32037fc",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_323",
+    "applicant_id": "6b129b81-3465-41f0-bd8b-607c532f640b",
+    "match_cost": 0.5
+  },
+  {
+    "user_id": "USR_324",
+    "applicant_id": "807b5d61-2109-4e00-8eab-d3f73ba1c48f",
+    "match_cost": 0.003
+  },
+  {
+    "user_id": "USR_325",
+    "applicant_id": "21241bad-5747-4ca4-81cd-0cdb78ca706e",
+    "match_cost": 0.301
+  },
+  {
+    "user_id": "USR_326",
+    "applicant_id": "fa6316ad-b7dd-482a-8ee9-4ea9fe0035c1",
+    "match_cost": 0.004
+  },
+  {
+    "user_id": "USR_327",
+    "applicant_id": "1bad773b-3f8b-4d30-920a-00bc6e8da69a",
+    "match_cost": 0.0321
+  },
+  {
+    "user_id": "USR_328",
+    "applicant_id": "55a2b7e1-4e2a-4ace-82be-155ec0e8f0f3",
+    "match_cost": 0.3
+  },
+  {
+    "user_id": "USR_329",
+    "applicant_id": "78fbd4ad-70e2-469a-99fd-2f35aca3bc9b",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_330",
+    "applicant_id": "7e4bb55a-c45d-4a89-a3a4-abb183387d51",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_331",
+    "applicant_id": "3606bf2c-8f6a-4db1-80a6-7e2a3d996b74",
+    "match_cost": 0.008
+  },
+  {
+    "user_id": "USR_332",
+    "applicant_id": "c90d9f32-41aa-45d5-aff7-fde195a1b942",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_333",
+    "applicant_id": "4d761698-95cd-4ade-ba1b-74a8e3b20349",
+    "match_cost": 0.004
+  },
+  {
+    "user_id": "USR_334",
+    "applicant_id": "64710ba3-d150-4fc4-b966-c6aca5c0f46d",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_335",
+    "applicant_id": "7c4526fa-736e-43fb-bdc0-fbde90f82050",
+    "match_cost": 0.204
+  },
+  {
+    "user_id": "USR_336",
+    "applicant_id": "ef551d86-ea25-4e77-9538-037bf126c1d9",
+    "match_cost": 0.0291
+  },
+  {
+    "user_id": "USR_337",
+    "applicant_id": "5e14bacb-b396-408a-a926-dc64a8361d69",
+    "match_cost": 0.003
+  },
+  {
+    "user_id": "USR_338",
+    "applicant_id": "c134b6f2-5448-4f09-bf2b-2d5da3f5ef3e",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_339",
+    "applicant_id": "28ba8d25-29ef-4a7c-9f25-31f6563a0e87",
+    "match_cost": 0.2
+  },
+  {
+    "user_id": "USR_340",
+    "applicant_id": "04af1949-0edf-46c8-9128-5b3e0da5ce3e",
+    "match_cost": 0.203
+  },
+  {
+    "user_id": "USR_341",
+    "applicant_id": "09fee15a-67bb-4cf5-9950-900ee715773d",
+    "match_cost": 0.0301
+  },
+  {
+    "user_id": "USR_342",
+    "applicant_id": "827a4228-9e5b-4120-a9ac-ac4b6734e5b1",
+    "match_cost": 0.302
+  },
+  {
+    "user_id": "USR_343",
+    "applicant_id": "b1ad70ee-4b88-4af6-96e2-0dc1d2c714d0",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_344",
+    "applicant_id": "ed5679f8-748f-4cb4-9ab1-9d7620eed029",
+    "match_cost": 0.015
+  },
+  {
+    "user_id": "USR_345",
+    "applicant_id": "f20f3140-68de-42b5-a5f8-fb0dc611618d",
+    "match_cost": 0.009
+  },
+  {
+    "user_id": "USR_346",
+    "applicant_id": "ee063840-4248-4677-8363-593375f9d425",
+    "match_cost": 0.208
+  },
+  {
+    "user_id": "USR_347",
+    "applicant_id": "8bb7c4d5-ee3d-4483-9fe1-0f955afbe407",
+    "match_cost": 0.007
+  },
+  {
+    "user_id": "USR_348",
+    "applicant_id": "6e4ae8c5-a4fb-424c-a849-1c065e927e28",
+    "match_cost": 0.205
+  },
+  {
+    "user_id": "USR_349",
+    "applicant_id": "07e0ec85-87d1-4418-ae5c-cee4be57da87",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_350",
+    "applicant_id": "a17ee3c7-c4a4-4be8-9b7c-6a7b7fca7c06",
+    "match_cost": 0.012
+  },
+  {
+    "user_id": "USR_351",
+    "applicant_id": "a3cf371f-3527-4906-a06a-17e795b977c8",
+    "match_cost": 0.005
+  },
+  {
+    "user_id": "USR_352",
+    "applicant_id": "e11c962b-fe7d-49e7-a9c9-f34251570824",
+    "match_cost": 0.503
+  },
+  {
+    "user_id": "USR_353",
+    "applicant_id": "75ea74ee-a743-4b04-8cd4-10a787d986f7",
+    "match_cost": 0.005
+  },
+  {
+    "user_id": "USR_354",
+    "applicant_id": "b4265c1c-bf17-424e-95d7-a66a701e08ae",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_355",
+    "applicant_id": "29724887-2734-4a0e-8053-6e5ac5f8f03c",
+    "match_cost": 0.202
+  },
+  {
+    "user_id": "USR_356",
+    "applicant_id": "f3440572-9151-4286-8be3-44c1473035c7",
+    "match_cost": 0.004
+  },
+  {
+    "user_id": "USR_357",
+    "applicant_id": "ba85e629-2d50-4741-90c9-d2d0df8a07d0",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_358",
+    "applicant_id": "bb1264ce-bcdd-47e9-9c74-f24cf8dfbd40",
+    "match_cost": 0.01
+  },
+  {
+    "user_id": "USR_359",
+    "applicant_id": "a2d67809-5ae3-4741-b2ad-a76b08a1dd86",
+    "match_cost": 0.012
+  },
+  {
+    "user_id": "USR_360",
+    "applicant_id": "e96ae63c-3229-4640-8084-6e2530e51e96",
+    "match_cost": 0.204
+  },
+  {
+    "user_id": "USR_361",
+    "applicant_id": "bbb01373-8aec-4175-9a71-b00a1b8db442",
+    "match_cost": 0.003
+  },
+  {
+    "user_id": "USR_362",
+    "applicant_id": "9436eb1e-78e4-457a-b4a0-c41fe2a9ba2f",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_363",
+    "applicant_id": "841f0569-a0be-4e65-8a1d-b900538d20d0",
+    "match_cost": 0.002
+  },
+  {
+    "user_id": "USR_364",
+    "applicant_id": "9fd6b108-e6c1-4012-ba8c-b07bccd95b14",
+    "match_cost": 0.023
+  },
+  {
+    "user_id": "USR_365",
+    "applicant_id": "d9896d93-4424-4b6b-aa64-6f3396ffea37",
+    "match_cost": 0.215
+  },
+  {
+    "user_id": "USR_366",
+    "applicant_id": "49fa0b4b-4440-4455-a2de-04957e68977d",
+    "match_cost": 0.002
+  },
+  {
+    "user_id": "USR_367",
+    "applicant_id": "06a2aa6e-e61b-4693-8dd1-a41ae7d45787",
+    "match_cost": 0.206
+  },
+  {
+    "user_id": "USR_368",
+    "applicant_id": "530a4b7c-8d93-4463-aeed-a86d6b639eac",
+    "match_cost": 0.205
+  },
+  {
+    "user_id": "USR_369",
+    "applicant_id": "ac21024d-f81b-43b9-b27e-15d314cad797",
+    "match_cost": 0.31
+  },
+  {
+    "user_id": "USR_370",
+    "applicant_id": "880dd0d8-776f-4f17-a5ed-5a5641e94865",
+    "match_cost": 0.008
+  },
+  {
+    "user_id": "USR_371",
+    "applicant_id": "40fb1541-0d4e-4829-b574-afa05321d863",
+    "match_cost": 0.002
+  },
+  {
+    "user_id": "USR_372",
+    "applicant_id": "f790daac-4840-40c3-9289-fd8c9c12a148",
+    "match_cost": 0.5
+  },
+  {
+    "user_id": "USR_373",
+    "applicant_id": "78f085da-4bab-42fc-8991-011092ccb9b2",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_374",
+    "applicant_id": "c0addbbc-744a-4004-bf3b-7c470d6750e5",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_375",
+    "applicant_id": "992b7c4f-30e2-407e-ae84-494dc605c0cd",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_376",
+    "applicant_id": "05f698d6-bbd3-452a-9243-807a643059d3",
+    "match_cost": 0.21
+  },
+  {
+    "user_id": "USR_377",
+    "applicant_id": "dd7d3de0-55e5-4105-a484-85299e71a80b",
+    "match_cost": 0.307
+  },
+  {
+    "user_id": "USR_378",
+    "applicant_id": "7aec8425-6272-4b58-8d67-a73b4cf49f8e",
+    "match_cost": 0.307
+  },
+  {
+    "user_id": "USR_379",
+    "applicant_id": "f4e598ab-f9a2-4d10-8a64-dcc46302c253",
+    "match_cost": 0.002
+  },
+  {
+    "user_id": "USR_380",
+    "applicant_id": "bacf7f5e-8b3b-4eb5-b9a1-c899660ea01f",
+    "match_cost": 0.301
+  },
+  {
+    "user_id": "USR_381",
+    "applicant_id": "b5f59963-139c-4140-8fc3-9224731c84ba",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_382",
+    "applicant_id": "5e5f8b33-9a33-41f8-9367-159e0dac67b1",
+    "match_cost": 0.018
+  },
+  {
+    "user_id": "USR_383",
+    "applicant_id": "8cc9e4b7-fbc4-43ee-a371-43ac17793950",
+    "match_cost": 0.01
+  },
+  {
+    "user_id": "USR_384",
+    "applicant_id": "229ad7fb-f2bc-4058-824d-7246689ba4f9",
+    "match_cost": 0.008
+  },
+  {
+    "user_id": "USR_385",
+    "applicant_id": "2994e9a5-f4f0-445f-ae2e-68c0adfc46b2",
+    "match_cost": 0.005
+  },
+  {
+    "user_id": "USR_386",
+    "applicant_id": "4405531f-21c0-437c-88c8-89833d487750",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_387",
+    "applicant_id": "3e2ab3de-2bd3-4876-811f-f76469786c13",
+    "match_cost": 0.201
+  },
+  {
+    "user_id": "USR_388",
+    "applicant_id": "d1ef2342-5dee-4d95-8056-198098807620",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_389",
+    "applicant_id": "9f8f95b3-9e58-4f79-986f-4277911f866a",
+    "match_cost": 0.0531
+  },
+  {
+    "user_id": "USR_390",
+    "applicant_id": "dffad2ac-afd3-46eb-bd86-1a556c619fb7",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_391",
+    "applicant_id": "f8679044-6654-4a3f-b470-cc1aa0680b22",
+    "match_cost": 0.3
+  },
+  {
+    "user_id": "USR_392",
+    "applicant_id": "20841cda-7ca5-41c3-84e2-46239b0c6833",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_393",
+    "applicant_id": "c5b9cf2e-236a-4af5-be20-15bbea936d96",
+    "match_cost": 0.01
+  },
+  {
+    "user_id": "USR_394",
+    "applicant_id": "79df3f43-233c-400f-84c8-46c57454cd57",
+    "match_cost": 0.002
+  },
+  {
+    "user_id": "USR_395",
+    "applicant_id": "4c3ba91b-4108-4454-8a8f-a21d967054b6",
+    "match_cost": 0.002
+  },
+  {
+    "user_id": "USR_396",
+    "applicant_id": "4dd93dda-4998-44ba-be0f-25a8726ea575",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_397",
+    "applicant_id": "284c1817-7649-4024-9123-6cb5fcbafc7b",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_398",
+    "applicant_id": "248a259d-24ae-4c19-9c4b-6d6b64fc9501",
+    "match_cost": 0.301
+  },
+  {
+    "user_id": "USR_399",
+    "applicant_id": "6590209e-735b-4f1e-942c-003520d965dc",
+    "match_cost": 0.201
+  },
+  {
+    "user_id": "USR_400",
+    "applicant_id": "a3ae23ff-acd9-494a-8f30-c1c147e096a5",
+    "match_cost": 0.0401
+  },
+  {
+    "user_id": "USR_401",
+    "applicant_id": "99afd702-be4d-4570-a46f-04e712e97b9d",
+    "match_cost": 0.0291
+  },
+  {
+    "user_id": "USR_402",
+    "applicant_id": "f96116a1-3968-4778-a87c-e47da46d2a05",
+    "match_cost": 0.004
+  },
+  {
+    "user_id": "USR_403",
+    "applicant_id": "025dc5f9-5426-45b6-9112-c3cd64e3b4f8",
+    "match_cost": 0.014
+  },
+  {
+    "user_id": "USR_404",
+    "applicant_id": "16d629ce-44b3-4d63-bbb6-7fb911b8107b",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_405",
+    "applicant_id": "889ba2f0-fb04-42a3-983b-acbe17af774e",
+    "match_cost": 0.0271
+  },
+  {
+    "user_id": "USR_406",
+    "applicant_id": "b404522c-cdbe-4c92-8a09-a4939db8935f",
+    "match_cost": 0.2
+  },
+  {
+    "user_id": "USR_407",
+    "applicant_id": "35191d10-a86f-4f5a-a17e-6ccdc72a939d",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_408",
+    "applicant_id": "35816c4a-49fd-4733-bbd7-19fa664a81f5",
+    "match_cost": 0.3
+  },
+  {
+    "user_id": "USR_409",
+    "applicant_id": "8ada2ee9-eb23-4e7f-9228-8d570fe0d51a",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_410",
+    "applicant_id": "2e7aa31c-3d69-4127-8f6a-56739cffa126",
+    "match_cost": 0.002
+  },
+  {
+    "user_id": "USR_411",
+    "applicant_id": "b0d22b83-9df9-4dc0-8923-124f1f616a0c",
+    "match_cost": 0.202
+  },
+  {
+    "user_id": "USR_412",
+    "applicant_id": "ffb75a5e-bbb1-494d-80e5-cbe7cb3c8a6c",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_413",
+    "applicant_id": "d39bec61-9702-423e-bf14-314d4184efa6",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_414",
+    "applicant_id": "021ca652-019c-4120-9148-3489bc8ced2e",
+    "match_cost": 0.012
+  },
+  {
+    "user_id": "USR_415",
+    "applicant_id": "84db8be2-dbbe-4eb4-b391-efa4d722e1e1",
+    "match_cost": 0.3
+  },
+  {
+    "user_id": "USR_416",
+    "applicant_id": "9abe43e1-6cc1-480e-8f61-9d1bba0a180e",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_417",
+    "applicant_id": "a072559a-662f-42cb-920d-d71c4a2fa95e",
+    "match_cost": 0.203
+  },
+  {
+    "user_id": "USR_418",
+    "applicant_id": "2e2d8eaf-196f-4c22-92ac-c0f530b22c2f",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_419",
+    "applicant_id": "cd15c180-a81f-4c77-8854-7eed68a1c50b",
+    "match_cost": 0.304
+  },
+  {
+    "user_id": "USR_420",
+    "applicant_id": "215a45e7-8651-4e24-9650-d63236b865b6",
+    "match_cost": 0.202
+  },
+  {
+    "user_id": "USR_421",
+    "applicant_id": "da8c15b4-9e06-4556-915f-bf6cf33ba9b4",
+    "match_cost": 0.3261
+  },
+  {
+    "user_id": "USR_422",
+    "applicant_id": "28fde7bc-86c8-45aa-9a34-a0a826fb664f",
+    "match_cost": 0.002
+  },
+  {
+    "user_id": "USR_423",
+    "applicant_id": "4c14e26f-6ffb-457e-90a7-bd7dd8c8cf29",
+    "match_cost": 0.002
+  },
+  {
+    "user_id": "USR_424",
+    "applicant_id": "28f89494-8332-4ff8-9e8c-388db83567ed",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_425",
+    "applicant_id": "cc943210-d350-4693-a355-094512f0d37d",
+    "match_cost": 0.504
+  },
+  {
+    "user_id": "USR_426",
+    "applicant_id": "5f39e415-1a17-4571-bb05-05b207e45eda",
+    "match_cost": 0.006
+  },
+  {
+    "user_id": "USR_427",
+    "applicant_id": "24ee2af8-4ac1-4fde-a361-5ad6e59a0743",
+    "match_cost": 0.017
+  },
+  {
+    "user_id": "USR_428",
+    "applicant_id": "cbaf58cc-2ce8-4d11-8805-8e28e275b9b2",
+    "match_cost": 0.002
+  },
+  {
+    "user_id": "USR_429",
+    "applicant_id": "59c55819-0808-4735-a09a-6ededd939e85",
+    "match_cost": 0.006
+  },
+  {
+    "user_id": "USR_430",
+    "applicant_id": "76dfcebe-090b-4bb6-93ce-7ef193b78dc8",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_431",
+    "applicant_id": "4b472c21-4e29-4588-adfa-fb46dd18c4f0",
+    "match_cost": 0.012
+  },
+  {
+    "user_id": "USR_432",
+    "applicant_id": "473347d7-1d98-4465-9e25-39225d45d449",
+    "match_cost": 0.302
+  },
+  {
+    "user_id": "USR_433",
+    "applicant_id": "585d6035-cf4a-45e1-9f19-df6051e46c1a",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_434",
+    "applicant_id": "b7c1ee00-ff16-47d9-a5ed-5d9d6f3da76d",
+    "match_cost": 0.202
+  },
+  {
+    "user_id": "USR_435",
+    "applicant_id": "18cfe814-ea06-45ce-aab5-24d5574c11b5",
+    "match_cost": 0.212
+  },
+  {
+    "user_id": "USR_436",
+    "applicant_id": "4101ebb9-6bb2-4923-906b-ce23601c4dd5",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_437",
+    "applicant_id": "fc69beae-9d87-4680-980b-f7aed433a840",
+    "match_cost": 0.213
+  },
+  {
+    "user_id": "USR_438",
+    "applicant_id": "5d8b2139-c888-42eb-83fb-dc4874bdee46",
+    "match_cost": 0.013
+  },
+  {
+    "user_id": "USR_439",
+    "applicant_id": "47743b06-c13a-4154-b425-b90a773359d6",
+    "match_cost": 0.204
+  },
+  {
+    "user_id": "USR_440",
+    "applicant_id": "1f36a4e6-6492-415b-a5ba-659df0687ab1",
+    "match_cost": 0.0471
+  },
+  {
+    "user_id": "USR_441",
+    "applicant_id": "79eaa027-b71d-4834-8237-ebea9269be86",
+    "match_cost": 0.002
+  },
+  {
+    "user_id": "USR_442",
+    "applicant_id": "81a1f212-4dc6-45b7-afd6-0cfef8c438e4",
+    "match_cost": 0.003
+  },
+  {
+    "user_id": "USR_443",
+    "applicant_id": "914bb0d9-a9d5-4664-94fd-1635a55c282a",
+    "match_cost": 0.014
+  },
+  {
+    "user_id": "USR_444",
+    "applicant_id": "e38c2fc3-e3ec-4d59-8862-44f03ff8aa92",
+    "match_cost": 0.302
+  },
+  {
+    "user_id": "USR_445",
+    "applicant_id": "ad655aa9-4108-47b0-abea-f63b309eb04a",
+    "match_cost": 0.207
+  },
+  {
+    "user_id": "USR_446",
+    "applicant_id": "4150ae62-2593-4ea5-9ff0-bd2d709e585c",
+    "match_cost": 0.01
+  },
+  {
+    "user_id": "USR_447",
+    "applicant_id": "3b3d95f4-d8ba-4685-aac9-33a08fe0fe29",
+    "match_cost": 0.2
+  },
+  {
+    "user_id": "USR_448",
+    "applicant_id": "41ba42b5-431f-4bbd-abc4-0f84c1bb8b31",
+    "match_cost": 0.003
+  },
+  {
+    "user_id": "USR_449",
+    "applicant_id": "258fb310-81c4-4f96-9b0f-0264f9a1ec59",
+    "match_cost": 0.201
+  },
+  {
+    "user_id": "USR_450",
+    "applicant_id": "0a60798c-3912-44f3-a73d-dedec3a5edc3",
+    "match_cost": 0.007
+  },
+  {
+    "user_id": "USR_451",
+    "applicant_id": "6b269f67-8973-4d6d-9ba1-b0734e8b14da",
+    "match_cost": 0.005
+  },
+  {
+    "user_id": "USR_452",
+    "applicant_id": "9e865f03-ab7f-45b1-9c8b-42f4cbdade8f",
+    "match_cost": 0.002
+  },
+  {
+    "user_id": "USR_453",
+    "applicant_id": "0ed1890e-0c90-4dad-bf40-6baec419a208",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_454",
+    "applicant_id": "41adc306-9610-444f-93bd-8d4422005e30",
+    "match_cost": 0.002
+  },
+  {
+    "user_id": "USR_455",
+    "applicant_id": "aeba083a-86ea-4b6c-9c40-d9ac64f60090",
+    "match_cost": 0.306
+  },
+  {
+    "user_id": "USR_456",
+    "applicant_id": "6c0be082-7c01-433e-af20-212975d36b31",
+    "match_cost": 0.207
+  },
+  {
+    "user_id": "USR_457",
+    "applicant_id": "7806998e-dd15-42ad-ae93-ed7fc9bc8860",
+    "match_cost": 0.209
+  },
+  {
+    "user_id": "USR_458",
+    "applicant_id": "14ae3c83-f0e5-4bae-8571-4b0d69b17d40",
+    "match_cost": 0.003
+  },
+  {
+    "user_id": "USR_459",
+    "applicant_id": "cf9ced21-dd90-46bd-87d5-aeefb6f81147",
+    "match_cost": 0.009
+  },
+  {
+    "user_id": "USR_460",
+    "applicant_id": "2de5bd51-7abf-41b8-b4e8-4d604c0f1039",
+    "match_cost": 0.008
+  },
+  {
+    "user_id": "USR_461",
+    "applicant_id": "91c42ceb-b8fc-43f0-918d-a8cbf579343b",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_462",
+    "applicant_id": "2fc8776c-9d5f-4c71-be79-3044199dfab4",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_463",
+    "applicant_id": "10512ec7-9cb9-4c73-b69d-138cdad1c750",
+    "match_cost": 0.004
+  },
+  {
+    "user_id": "USR_464",
+    "applicant_id": "d355a089-1f88-4f5a-8561-cdbf3d5f562f",
+    "match_cost": 0.003
+  },
+  {
+    "user_id": "USR_465",
+    "applicant_id": "73f34085-507e-41ed-96d3-c4936ce7c230",
+    "match_cost": 0.207
+  },
+  {
+    "user_id": "USR_466",
+    "applicant_id": "257fabbc-ab54-4843-b4bf-2873a4150690",
+    "match_cost": 0.0531
+  },
+  {
+    "user_id": "USR_467",
+    "applicant_id": "c312882d-1aec-45c0-a275-10d92f15e444",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_468",
+    "applicant_id": "c1e2ec51-62c8-4be4-9e2a-bd033a76310d",
+    "match_cost": 0.004
+  },
+  {
+    "user_id": "USR_469",
+    "applicant_id": "bb6abe0b-fba3-468a-b227-7d2abfc1a0da",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_470",
+    "applicant_id": "b684df1a-d138-4331-ac66-fa717b11c0e0",
+    "match_cost": 0.006
+  },
+  {
+    "user_id": "USR_471",
+    "applicant_id": "d56335d7-32d9-46b4-a23f-e4734392e693",
+    "match_cost": 0.201
+  },
+  {
+    "user_id": "USR_472",
+    "applicant_id": "0e57278d-cb24-4517-9c4d-7caec0704b21",
+    "match_cost": 0.201
+  },
+  {
+    "user_id": "USR_473",
+    "applicant_id": "f7c52273-4d0b-49dd-b86c-c29d6c5a18a4",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_474",
+    "applicant_id": "a4c21ceb-16fc-4368-a9e7-d2947c279529",
+    "match_cost": 0.2
+  },
+  {
+    "user_id": "USR_475",
+    "applicant_id": "cd98373c-21bb-4473-9171-6d91ffbdb1c3",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_476",
+    "applicant_id": "4b3d8083-48f2-43fd-89fa-3cc629f328c9",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_477",
+    "applicant_id": "7257dda8-f5c9-438e-b641-6a43edc43c7a",
+    "match_cost": 0.001
+  },
+  {
+    "user_id": "USR_478",
+    "applicant_id": "d6bbdee3-48ad-402f-9378-00214cbcae27",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_479",
+    "applicant_id": "801c55da-c756-493a-91c4-b9c471e4994f",
+    "match_cost": 0.004
+  },
+  {
+    "user_id": "USR_480",
+    "applicant_id": "d5fdb980-f5cc-4481-8d43-82a95fc094a3",
+    "match_cost": 0.2004
+  },
+  {
+    "user_id": "USR_481",
+    "applicant_id": "35a2cf3f-bd12-4d3d-b421-fff1cec10478",
+    "match_cost": 0.002
+  },
+  {
+    "user_id": "USR_482",
+    "applicant_id": "130379d7-74ff-48e1-b2ee-b24d18e74f6c",
+    "match_cost": 0.005
+  },
+  {
+    "user_id": "USR_483",
+    "applicant_id": "cc8e6fb1-febf-4492-b93e-45f50dafcb6e",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_484",
+    "applicant_id": "894db76e-021e-4034-bd05-0e2e7600360c",
+    "match_cost": 0.004
+  },
+  {
+    "user_id": "USR_485",
+    "applicant_id": "cffae102-0a27-4d7d-a412-6ae037871687",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_486",
+    "applicant_id": "ca5e5b46-3792-43f4-aef2-02214d73f6b8",
+    "match_cost": 0.2
+  },
+  {
+    "user_id": "USR_487",
+    "applicant_id": "5ccfad9f-fb3e-4c01-aeed-fac1458e649f",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_488",
+    "applicant_id": "a409be7a-c708-49b5-8f90-58b1b1ae4788",
+    "match_cost": 0.202
+  },
+  {
+    "user_id": "USR_489",
+    "applicant_id": "4249a8ea-2b21-439d-9c59-7c25767c30b8",
+    "match_cost": 0.0301
+  },
+  {
+    "user_id": "USR_490",
+    "applicant_id": "44795b6a-6aa1-4eb8-b123-c136e7fd72e6",
+    "match_cost": 0.006
+  },
+  {
+    "user_id": "USR_491",
+    "applicant_id": "76a9693f-e261-48f2-8588-ef9284153f41",
+    "match_cost": 0.003
+  },
+  {
+    "user_id": "USR_492",
+    "applicant_id": "f0f5fa88-b670-4065-b790-0c812bc71138",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_493",
+    "applicant_id": "6d21cfd3-757e-41be-aacb-b37cf2c6c9c3",
+    "match_cost": 0.201
+  },
+  {
+    "user_id": "USR_494",
+    "applicant_id": "78b82753-49f4-4088-9fa0-57868e203804",
+    "match_cost": 0.009
+  },
+  {
+    "user_id": "USR_495",
+    "applicant_id": "53145b9b-08f1-4d77-9a52-2b0e907f8889",
+    "match_cost": 0.022
+  },
+  {
+    "user_id": "USR_496",
+    "applicant_id": "3cedd6a1-7cee-423d-a15c-abd3c96e1436",
+    "match_cost": 0.3
+  },
+  {
+    "user_id": "USR_497",
+    "applicant_id": "cd8ddceb-ae8b-401b-a240-f3e044a5c9dd",
+    "match_cost": 0.0
+  },
+  {
+    "user_id": "USR_498",
+    "applicant_id": "eb588100-179f-49a3-a4d5-65981f99aa26",
+    "match_cost": 0.009
+  },
+  {
+    "user_id": "USR_499",
+    "applicant_id": "60979d4c-8587-44fb-b73d-421f0c94d030",
+    "match_cost": 0.007
+  },
+  {
+    "user_id": "USR_500",
+    "applicant_id": "49d97787-ef31-4ef1-9691-29b5d0018500",
+    "match_cost": 0.019
+  }
+]
