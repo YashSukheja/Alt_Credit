@@ -8,7 +8,9 @@
     "dev": "nodemon src/server.js",
     "db:init": "node scripts/initDb.js",
     "import": "node scripts/importData.js",
-"validate:csv": "node scripts/validateCsv.js"
+    "validate:csv": "node scripts/validateCsv.js",
+    "test": "jest",
+"score:user": "node scripts/scoreUser.js"
   },
   "keywords": [],
   "author": "",
@@ -20,6 +22,7 @@
     "pg": "8.13.1"
   },
   "devDependencies": {
+    "jest": "29.7.0",
     "nodemon": "3.1.9"
   }
 }
