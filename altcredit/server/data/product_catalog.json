@@ -1,0 +1,26 @@
+[{
+        "product_id": "P_01",
+        "product_name": "Starter Credit Card",
+        "min_score": 350,
+        "type": "Credit Card",
+        "interest_rate": "12% APR"
+    }, {
+        "product_id": "P_02",
+        "product_name": "Micro-Loan Lite",
+        "min_score": 550,
+        "type": "Loan",
+        "interest_rate": "17.00% PA"
+    }, {
+        "product_id": "P_03",
+        "product_name": "Standard Credit Card",
+        "min_score": 650,
+        "type": "Credit Card",
+        "interest_rate": "18.00% APR"
+    }, {
+        "product_id": "P_04",
+        "product_name": "Premium Personal Loan",
+        "min_score": 750,
+        "type": "Loan",
+        "interest_rate": "11.00% PA"
+    }
+]
