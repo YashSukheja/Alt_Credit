@@ -5,7 +5,7 @@ const { getCurrentScore, getScoreHistory } = require('../services/scoreService')
 const { productsForScore } = require('../services/productService');
 const { listTransactions } = require('../services/transactionService');
 const { simulate, SCENARIOS } = require('../services/whatIfService');
-const { listUserOffers, rejectOffer } = require('../services/offerService');
+const { listUserOffers, rejectOffer, acceptOffer } = require('../services/offerService');
 const { buildReportData } = require('../services/reportService');        
 const { renderTransparencyPdf } = require('../reports/transparencyPdf'); 
 
@@ -69,6 +69,11 @@ router.post('/:id/offers/:offerId/reject', requireRole('user'), async (req, res)
   res.json(await rejectOffer(req.params.id, req.params.offerId, actorOf(req)));
 });
 
+// POST /users/USR_001/offers/12/accept -> calls the partner bank; only the user themself
+router.post('/:id/offers/:offerId/accept', requireRole('user'), async (req, res) => {
+  res.json(await acceptOffer(req.params.id, req.params.offerId, actorOf(req)));
+});
+
 // GET /users/USR_001/report.pdf -> downloadable transparency report
 router.get('/:id/report.pdf', async (req, res) => {
   // 1. Gather data FIRST. If this throws (e.g. 404), headers are not sent yet,
@@ -89,6 +94,5 @@ router.get('/:id/profile.json', async (req, res) => {
   res.json(data);
 });
 
-// (accept comes in step 7, together with the mock bank)
 
 module.exports = router;
