@@ -1,58 +1,72 @@
 const express = require('express');
 const { assertUserId, parsePagination } = require('../utils/validation');
+const { requireAuth, requireRole, assertCanAccessUser } = require('../middleware/auth');
 const { getCurrentScore, getScoreHistory } = require('../services/scoreService');
 const { productsForScore } = require('../services/productService');
 const { listTransactions } = require('../services/transactionService');
 const { simulate, SCENARIOS } = require('../services/whatIfService');
+const { listUserOffers, rejectOffer } = require('../services/offerService');
 
 // Routes are THIN: read the request -> call a service -> send JSON.
-// All real logic lives in services/, so it can be tested without HTTP.
 const router = express.Router();
 
-// Who is making the request (written to the audit log).
-// TODO step 5: requireAuth + "users can only see their own data", actor from the token
-const actorOf = (req) => (req.user ? req.user.username : 'anonymous');
+// Every route below needs a valid login token
+router.use(requireAuth);
 
-// router.param runs automatically for every route that has :id in it.
-// One place to validate the id instead of repeating the check in each route.
+// Who is making the request (written to the audit log)
+const actorOf = (req) => req.user.username;
+
+// Runs for every route with :id ->
+//  1. is the id well-formed?  2. is this caller allowed to see this user?
+// Lenders get 403 here: they use the anonymised /lender routes instead.
 router.param('id', (req, res, next, id) => {
-  assertUserId(id); // throws AppError 400 if not like USR_001
+  assertUserId(id);
+  assertCanAccessUser(req.user, id);
   next();
 });
 
-// GET /users/USR_001/score -> score, band, breakdown, top factors, eligible/locked products
+// GET /users/what-if/scenarios -> presets for the UI (no :id, any logged-in user)
+router.get('/what-if/scenarios', (req, res) => {
+  res.json(Object.entries(SCENARIOS).map(([key, s]) => ({ key, label: s.label })));
+});
+
+// GET /users/USR_001/score
 router.get('/:id/score', async (req, res) => {
-  // Express 5: if this await throws, the error goes straight to errorHandler (no try/catch needed)
   res.json(await getCurrentScore(req.params.id, actorOf(req)));
 });
 
-// GET /users/USR_001/score/history -> how the score changed over time
+// GET /users/USR_001/score/history
 router.get('/:id/score/history', async (req, res) => {
   res.json({ user_id: req.params.id, history: await getScoreHistory(req.params.id) });
 });
 
-// GET /users/USR_001/products -> what this user can apply for, and what is still locked
+// GET /users/USR_001/products
 router.get('/:id/products', async (req, res) => {
   const { score, risk_band } = await getCurrentScore(req.params.id, actorOf(req));
   res.json({ user_id: req.params.id, score, risk_band, ...(await productsForScore(score)) });
 });
 
 // GET /users/USR_001/transactions?month=2023-06&category=Rent&status=Late&page=1&limit=20
-// All query params are optional. parsePagination gives safe page/limit defaults.
 router.get('/:id/transactions', async (req, res) => {
   res.json(await listTransactions(req.params.id, req.query, parsePagination(req.query)));
 });
 
-// GET /users/what-if/scenarios -> list of presets, so the UI can draw a button for each
-router.get('/what-if/scenarios', (req, res) => {
-  res.json(Object.entries(SCENARIOS).map(([key, s]) => ({ key, label: s.label })));
-});
-
-// POST /users/USR_001/what-if
-// body: { "scenario": "autopay" }  or  { "changes": { "savings_days": 200 } }  or both
+// POST /users/USR_001/what-if  body: { "scenario": "autopay" } and/or { "changes": {...} }
 router.post('/:id/what-if', async (req, res) => {
-  const { scenario, params, changes } = req.body || {}; // `|| {}` so an empty body does not crash
+  const { scenario, params, changes } = req.body || {};
   res.json(await simulate(req.params.id, { scenario, params, changes }, actorOf(req)));
 });
+
+// GET /users/USR_001/offers -> offers lenders have sent to me
+router.get('/:id/offers', async (req, res) => {
+  res.json(await listUserOffers(req.params.id));
+});
+
+// POST /users/USR_001/offers/12/reject -> only the user themself (not even admin) can respond
+router.post('/:id/offers/:offerId/reject', requireRole('user'), async (req, res) => {
+  res.json(await rejectOffer(req.params.id, req.params.offerId, actorOf(req)));
+});
+
+// (accept comes in step 7, together with the mock bank)
 
 module.exports = router;
