@@ -4,29 +4,43 @@
   "description": "",
   "main": "src/server.js",
   "scripts": {
-    "start": "node src/server.js",
-    "dev": "nodemon src/server.js",
-    "db:init": "node scripts/initDb.js",
-    "import": "node scripts/importData.js",
-    "validate:csv": "node scripts/validateCsv.js",
-    "test": "jest",
-    "score:user": "node scripts/scoreUser.js",
-    "seed:accounts": "node scripts/seedAccounts.js"
-  },
+  "start": "node src/server.js",
+  "dev": "nodemon src/server.js",
+  "db:init": "node scripts/initDb.js",
+  "import": "node scripts/importData.js",
+  "validate:csv": "node scripts/validateCsv.js",
+  "seed:accounts": "node scripts/seedAccounts.js",
+  "score:all": "node scripts/scoreAll.js",
+  "score:user": "node scripts/scoreUser.js",
+  "setup": "npm run db:init && npm run import && npm run seed:accounts && npm run score:all",
+  "test": "jest tests/unit",
+  "test:coverage": "jest tests/unit --coverage",
+  "test:integration": "jest --config tests/integration/jest.config.js --runInBand",
+  "test:all": "npm test && npm run test:integration"
+},
+"jest": {
+  "testEnvironment": "node",
+  "testPathIgnorePatterns": ["/node_modules/", "/bank-mock/", "/tests/integration/"],
+  "coveragePathIgnorePatterns": ["/node_modules/", "/tests/"],
+  "testTimeout": 20000
+},
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "2.4.3",
+    "cors": "2.8.5",
     "csv-parse": "5.6.0",
     "dotenv": "16.4.7",
     "express": "5.1.0",
+    "helmet": "8.1.0",
     "jsonwebtoken": "9.0.2",
     "pdfkit": "0.15.2",
     "pg": "8.13.1"
   },
   "devDependencies": {
     "jest": "29.7.0",
-    "nodemon": "3.1.9"
+    "nodemon": "3.1.9",
+    "supertest": "7.0.0"
   }
 }
