@@ -10,15 +10,18 @@
     "import": "node scripts/importData.js",
     "validate:csv": "node scripts/validateCsv.js",
     "test": "jest",
-"score:user": "node scripts/scoreUser.js"
+    "score:user": "node scripts/scoreUser.js",
+    "seed:accounts": "node scripts/seedAccounts.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bcryptjs": "2.4.3",
     "csv-parse": "5.6.0",
     "dotenv": "16.4.7",
     "express": "5.1.0",
+    "jsonwebtoken": "9.0.2",
     "pg": "8.13.1"
   },
   "devDependencies": {

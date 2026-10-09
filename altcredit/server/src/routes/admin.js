@@ -2,16 +2,17 @@ const express = require('express');
 const { importDataset } = require('../importers/importDataset');
 const { query } = require('../config/db');
 const { scoreAllUsers } = require('../services/scoreService');
+const { requireAuth, requireRole } = require('../middleware/auth');
+const { parsePagination } = require('../utils/validation');
 
-// Admin-only actions: load data, score everyone, see import history
 const router = express.Router();
 
-// TODO step 5: protect with requireAuth + requireRole('admin')
+// Every route in this file: must be logged in AND be an admin
+router.use(requireAuth, requireRole('admin'));
 
-// POST /admin/import -> validate + load all dataset files from server/data (step 2)
+// POST /admin/import -> validate + load all dataset files from server/data
 router.post('/import', async (req, res) => {
-  const result = await importDataset({ actor: 'admin' });
-  res.status(201).json(result); // 201 = "Created": new rows were written
+  res.status(201).json(await importDataset({ actor: req.user.username }));
 });
 
 // GET /admin/import-runs -> last 20 imports with accepted/rejected counts
@@ -23,10 +24,30 @@ router.get('/import-runs', async (req, res) => {
   res.json(rows);
 });
 
-// POST /admin/score-all -> score all 500 users and store results.
-// Run once after every import, so lender search has stored scores to filter on.
+// POST /admin/score-all -> score every user and store results
 router.post('/score-all', async (req, res) => {
-  res.json(await scoreAllUsers('admin'));
+  res.json(await scoreAllUsers(req.user.username));
+});
+
+// GET /admin/audit?action=OFFER_SENT&actor=lender1&page=1&limit=50 -> who did what, when
+router.get('/audit', async (req, res) => {
+  const { page, limit, offset } = parsePagination(req.query, { defaultLimit: 50, maxLimit: 200 });
+  const where = [];
+  const params = [];
+  if (req.query.action) { params.push(req.query.action); where.push(`action = $${params.length}`); }
+  if (req.query.actor) { params.push(req.query.actor); where.push(`actor = $${params.length}`); }
+  const whereSql = where.length ? `WHERE ${where.join(' AND ')}` : '';
+
+  const { rows } = await query(
+    `SELECT id, actor, action, entity, entity_id, details, created_at, count(*) OVER () AS total
+     FROM audit_log ${whereSql}
+     ORDER BY id DESC LIMIT $${params.length + 1} OFFSET $${params.length + 2}`,
+    [...params, limit, offset],
+  );
+  res.json({
+    page, limit, total: rows.length ? Number(rows[0].total) : 0,
+    results: rows.map(({ total, ...r }) => r),
+  });
 });
 
 module.exports = router;
