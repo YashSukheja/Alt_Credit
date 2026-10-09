@@ -4,6 +4,8 @@ const { notFound, errorHandler } = require('./middleware/errorHandler');
 const healthRoutes = require('./routes/health');
 const adminRoutes = require('./routes/admin');
 const userRoutes = require('./routes/users');
+const healthRoutes = require('./routes/health');
+const authRoutes = require('./routes/auth');    
 
 const app = express();
 
@@ -13,6 +15,9 @@ app.use(express.json({ limit: '1mb' }));
 app.use('/health', healthRoutes);
 app.use('/admin', adminRoutes);
 app.use('/users', userRoutes);
+app.use('/health', healthRoutes);
+app.use('/auth', authRoutes);
+
 // more routes get added here in later steps
 
 app.use(notFound);      // must come after all routes
