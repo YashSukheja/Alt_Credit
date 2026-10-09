@@ -15,4 +15,8 @@ module.exports = {
   jwtSecret: process.env.JWT_SECRET,
   jwtExpiresIn: process.env.JWT_EXPIRES_IN || '8h', // how long a login token stays valid
   logLevel: process.env.LOG_LEVEL || 'info',
+   // Partner bank (step 7). Optional at startup: only "accept offer" needs it.
+  bankApiUrl: process.env.BANK_API_URL || 'http://localhost:5001',
+  bankApiKey: process.env.BANK_API_KEY || '',
+  bankTimeoutMs: Number(process.env.BANK_TIMEOUT_MS) || 5000,
 };
