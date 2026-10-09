@@ -6,6 +6,8 @@ const { productsForScore } = require('../services/productService');
 const { listTransactions } = require('../services/transactionService');
 const { simulate, SCENARIOS } = require('../services/whatIfService');
 const { listUserOffers, rejectOffer } = require('../services/offerService');
+const { buildReportData } = require('../services/reportService');        
+const { renderTransparencyPdf } = require('../reports/transparencyPdf'); 
 
 // Routes are THIN: read the request -> call a service -> send JSON.
 const router = express.Router();
@@ -65,6 +67,26 @@ router.get('/:id/offers', async (req, res) => {
 // POST /users/USR_001/offers/12/reject -> only the user themself (not even admin) can respond
 router.post('/:id/offers/:offerId/reject', requireRole('user'), async (req, res) => {
   res.json(await rejectOffer(req.params.id, req.params.offerId, actorOf(req)));
+});
+
+// GET /users/USR_001/report.pdf -> downloadable transparency report
+router.get('/:id/report.pdf', async (req, res) => {
+  // 1. Gather data FIRST. If this throws (e.g. 404), headers are not sent yet,
+  //    so the errorHandler can still reply with normal JSON.
+  const data = await buildReportData(req.params.id, actorOf(req), 'pdf');
+
+  // 2. Only now switch the response to PDF and stream it.
+  //    "attachment" makes the browser download it instead of opening it.
+  res.setHeader('Content-Type', 'application/pdf');
+  res.setHeader('Content-Disposition', `attachment; filename="altcredit-${req.params.id}-${data.report_id}.pdf"`);
+  renderTransparencyPdf(data, res);
+});
+
+// GET /users/USR_001/profile.json -> same data as the PDF, machine-readable export
+router.get('/:id/profile.json', async (req, res) => {
+  const data = await buildReportData(req.params.id, actorOf(req), 'json');
+  res.setHeader('Content-Disposition', `attachment; filename="altcredit-${req.params.id}-profile.json"`);
+  res.json(data);
 });
 
 // (accept comes in step 7, together with the mock bank)
